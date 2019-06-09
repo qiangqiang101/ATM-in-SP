@@ -1,0 +1,24 @@
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\bin\Debug\ATM.dll
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\bin\Debug\ATM.pdb
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\bin\Debug\ATM.xml
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\bin\Debug\INMNativeUI.dll
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\obj\Debug\ATM.vbprojResolveAssemblyReference.cache
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\obj\Debug\ATM.Resources.resources
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\obj\Debug\ATM.vbproj.GenerateResource.Cache
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\obj\Debug\ATM.dll
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\obj\Debug\ATM.xml
+C:\Users\Bartholomew\AppData\Local\Temporary Projects\ATM\obj\Debug\ATM.pdb
+D:\Projects\Mods\ATM\ATM\bin\Debug\ATM.dll
+D:\Projects\Mods\ATM\ATM\bin\Debug\ATM.pdb
+D:\Projects\Mods\ATM\ATM\bin\Debug\ATM.xml
+D:\Projects\Mods\ATM\ATM\bin\Debug\INMNativeUI.dll
+D:\Projects\Mods\ATM\ATM\bin\Debug\ScriptHookVDotNet2.dll
+D:\Projects\Mods\ATM\ATM\bin\Debug\ScriptHookVDotNet2.xml
+D:\Projects\Mods\ATM\ATM\obj\Debug\ATM.Resources.resources
+D:\Projects\Mods\ATM\ATM\obj\Debug\ATM.vbproj.GenerateResource.Cache
+D:\Projects\Mods\ATM\ATM\obj\Debug\ATM.dll
+D:\Projects\Mods\ATM\ATM\obj\Debug\ATM.xml
+D:\Projects\Mods\ATM\ATM\obj\Debug\ATM.pdb
+D:\Projects\Mods\ATM\ATM\obj\Debug\ATM.vbprojResolveAssemblyReference.cache

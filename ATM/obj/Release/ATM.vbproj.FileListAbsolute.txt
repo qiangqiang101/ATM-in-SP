@@ -1,0 +1,12 @@
+D:\Projects\Mods\ATM\ATM\bin\Release\ATM.dll
+D:\Projects\Mods\ATM\ATM\bin\Release\ATM.pdb
+D:\Projects\Mods\ATM\ATM\bin\Release\ATM.xml
+D:\Projects\Mods\ATM\ATM\bin\Release\INMNativeUI.dll
+D:\Projects\Mods\ATM\ATM\bin\Release\ScriptHookVDotNet2.dll
+D:\Projects\Mods\ATM\ATM\bin\Release\ScriptHookVDotNet2.xml
+D:\Projects\Mods\ATM\ATM\obj\Release\ATM.Resources.resources
+D:\Projects\Mods\ATM\ATM\obj\Release\ATM.vbproj.GenerateResource.Cache
+D:\Projects\Mods\ATM\ATM\obj\Release\ATM.dll
+D:\Projects\Mods\ATM\ATM\obj\Release\ATM.xml
+D:\Projects\Mods\ATM\ATM\obj\Release\ATM.pdb
+D:\Projects\Mods\ATM\ATM\obj\Release\ATM.vbprojResolveAssemblyReference.cache
